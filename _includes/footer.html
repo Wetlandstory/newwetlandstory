@@ -9,7 +9,26 @@
 }(document, 'script', 'facebook-jssdk'));</script>
 
 <div class="fb-comments" data-href="http://wetlandstory.github.io/newwetlandstory/" data-width="470" data-numposts="5" data-colorscheme="light"></div>
-
+<a class="twitter-timeline"
+  href="https://twitter.com/Toffeesmen"
+  data-widget-id="YOUR-WIDGET-ID-HERE">
+Tweets by @Toffeesmen
+</a>
+<script type="text/javascript">
+window.twttr = (function (d, s, id) {
+  var t, js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id; js.src= "https://platform.twitter.com/widgets.js";
+  fjs.parentNode.insertBefore(js, fjs);
+  return window.twttr || (t = { _e: [], ready: function (f) { t._e.push(f) } });
+}(document, "script", "twitter-wjs"));
+</script>
+<a class="twitter-timeline"
+  width="300"
+  height="500"
+  href="https://twitter.com/Toffeesmen"
+  data-widget-id="YOUR-WIDGET-ID-HERE">
+  
 <span>&copy; {{ site.time | date: '%Y' }} {{ site.owner.name }}. Powered by <a href="http://jekyllrb.com">Jekyll</a> using the <a href="http://mademistakes.com/so-simple/">So Simple Theme</a>.</span>
 <div class="social-icons">
 	{% if site.owner.twitter %}<a href="http://twitter.com/{{ site.owner.twitter }}" title="{{ site.owner.name}} on Twitter" target="_blank"><i class="fa fa-twitter-square fa-2x"></i></a>{% endif %}
