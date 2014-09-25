@@ -5,29 +5,21 @@ modified:
 categories: blog
 excerpt:
 tags: []
-image:
+image:ta.jpg
   feature:
-date: 2014-08-08T15:39:55-04:00
+date: 2014-09-25T15:39:55-04:00
 ---
 
-You'll find this post in your `_posts` directory - edit this post and re-build (or run with the `-w` switch) to see your changes!
-To add new posts, simply add a file in the `_posts` directory that follows the convention: YYYY-MM-DD-name-of-post.ext.
+## วิถีชีวิตคนพัทลุง
 
-## Sample Heading
 
-### Sample Heading 2
+### ตาทำกรงนก
 
-Jekyll also offers powerful support for code snippets:
+คุณตาชาวไทยมุสลิม วัย 84 ปี มีอาชีพทำกรงนก เวลาว่าง
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+ตาแกบอกผมว่า “ทำกรงนกมาได้สี่ปีแล้ว ดีกว่านอนรอความตายเฉยๆ”
 
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll's GitHub repo][jekyll-gh].
+แต่ทุกวันนี้ตาแกตื่นตีสี่ ก่อนจะออกจากบ้านเช้าๆไปปั่นจักรยานวันละชั่วโมงทุกวัน!!!
 
-[jekyll-gh]: https://github.com/jekyll/jekyll
-[jekyll]:    http://jekyllrb.com
+
+Photo by:กรกช ลาภานุพัฒนกุล 
