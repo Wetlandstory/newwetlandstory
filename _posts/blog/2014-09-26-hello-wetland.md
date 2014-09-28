@@ -6,7 +6,7 @@ categories: blog
 excerpt: girl2.jpg
 tags: []
 image: 
-  feature:
+  feature: girl2.jpg
 date: 2014-08-08T15:39:55-04:00
 ---
 
