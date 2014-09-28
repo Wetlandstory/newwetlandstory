@@ -3,10 +3,10 @@ layout: post
 title: "Hello wetland"
 modified: 
 categories: blog
-excerpt: girl2.jpg
+excerpt: 
 tags: []
 image: 
-  feature: girl2.jpg
+  feature: girl3.jpg
 date: 2014-08-08T15:39:55-04:00
 ---
 
