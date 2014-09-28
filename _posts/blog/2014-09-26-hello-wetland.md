@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Hello wetland"
-modified: girl2.jpg
+modified: 
 categories: blog
-excerpt:
+excerpt: girl2.jpg
 tags: []
 image: 
   feature:
