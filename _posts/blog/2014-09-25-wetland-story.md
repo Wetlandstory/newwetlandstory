@@ -6,7 +6,7 @@ categories: blog
 excerpt:
 tags: []
 image: 
-  feature: ta1.jpg
+  feature: ta2.jpg
 date: 2014-08-08T15:39:55-04:00
 ---
 
