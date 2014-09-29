@@ -32,7 +32,7 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 # Site owner
 owner:
   name: Wetlandstory
-  avatar: wetland1.jpg
+  avatar: wetland2.jpg
   email: you@email.com
   disqus-shortname:
   twitter: Toffeesmen
